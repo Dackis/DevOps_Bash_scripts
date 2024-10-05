@@ -1,0 +1,57 @@
+ test
+ test
+2024-09-24 14:07:44 - test
+ 2024-09-24 14:08:59 - Disk C is using 72% of disk space
+ 2024-09-24 14:09:05 - Disk C is using 72% of disk space
+ 2024-09-24 14:09:06 - Disk C is using 72% of disk space
+ 2024-09-24 14:09:48 - Disk C is using 72% of disk space
+Disk D is using 82% of disk space
+ 2024-09-24 14:10:09 - Disk C is using 72% of disk space
+2024-09-24 14:10:09 - Disk D is using 82% of disk space
+ 2024-09-24 14:14:01 - Disk C is using 72% of disk space
+2024-09-24 14:14:01 - Disk D is using 82% of disk space
+2024-09-24 14:15:00 - ALERT!!! 
+2024-09-24 14:15:00 - disk C using 72% this is more than 60% of space, ALERT!!! 
+2024-09-24 14:15:00 - Sending message to evaldas.samavicius@gmail.com 
+2024-09-24 14:15:00 - ALERT!!! 
+2024-09-24 14:16:22 - ALERT!!! 
+2024-09-24 14:16:22 - disk C using 72% this is more than 60% of space, ALERT!!! 
+2024-09-24 14:16:22 - Sending message to evaldas.samavicius@gmail.com 
+2024-09-24 14:16:22 - ALERT!!! 
+2024-09-24 14:16:22 - ALERT!!! "
+2024-09-24 14:17:25 - ALERT!!! 
+2024-09-24 14:17:25 - disk C using 72% this is more than 60% of space, ALERT!!! 
+2024-09-24 14:17:25 - Sending message to evaldas.samavicius@gmail.com 
+2024-09-24 14:17:25 - ALERT!!! 
+2024-09-24 14:17:25 - ALERT!!!
+2024-09-24 14:17:25 - disk C using "72"% this is more than "60"% of space, ALERT!!!
+2024-09-24 14:17:25 - Sending message to evaldas.samavicius@gmail.com
+2024-09-24 14:17:25 - ALERT!!! 
+2024-09-24 14:17:36 - ALERT!!! 
+2024-09-24 14:17:36 - disk C using 72% this is more than 60% of space, ALERT!!! 
+2024-09-24 14:17:36 - Sending message to evaldas.samavicius@gmail.com 
+2024-09-24 14:17:36 - ALERT!!! 
+2024-09-24 14:17:36 - ALERT!!!
+2024-09-24 14:17:36 - disk C using "72"% this is more than "60"% of space, ALERT!!!
+2024-09-24 14:17:36 - Sending message to evaldas.samavicius@gmail.com
+2024-09-24 14:17:36 - ALERT!!! 
+2024-09-24 14:18:26 - ALERT!!!
+2024-09-24 14:18:26 - disk C using "72"% this is more than "60"% of space, ALERT!!!
+2024-09-24 14:18:26 - Sending message to evaldas.samavicius@gmail.com
+2024-09-24 14:18:26 - ALERT!!! 
+2024-09-24 14:18:31 - ALERT!!!
+2024-09-24 14:18:31 - disk C using "72"% this is more than "60"% of space, ALERT!!!
+2024-09-24 14:18:31 - Sending message to evaldas.samavicius@gmail.com
+2024-09-24 14:18:31 - ALERT!!! 
+2024-09-24 14:19:53 - ALERT!!!
+2024-09-24 14:19:53 - disk C using "72"% this is more than "60"% of space, ALERT!!!
+2024-09-24 14:19:53 - Sending message to evaldas.samavicius@gmail.com
+2024-09-24 14:19:53 - ALERT!!! 
+2024-09-24 14:19:53 - ALERT!!!
+2024-09-24 14:19:53 - disk D using "82"% this is more than "60"% of space, ALERT!!!
+2024-09-24 14:19:53 - Sending message to evaldas.samavicius@gmail.com
+2024-09-24 14:19:53 - ALERT!!! 
+2024-09-24 14:23:08 - ALERT!!! Disk C using 72% (more than 60%)
+2024-09-24 14:23:08 - Sending alert to evaldas.samavicius@gmail.com
+2024-09-24 14:23:10 - ALERT!!! Disk D using 82% (more than 60%)
+2024-09-24 14:23:10 - Sending alert to evaldas.samavicius@gmail.com

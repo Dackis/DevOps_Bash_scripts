@@ -1,0 +1,7 @@
+ALERT service is not running. RESTARTING at 2024.10.03+18161727968618
+ALERT service: cron is not running. RESTARTING at 2024.10.03+181729
+ALERT service: cron is not running. RESTARTING at 2024.10.03+181835
+Service; cron running - 2024.10.03+182031
+INFORMATION Service; cron running - 2024.10.03+182051
+INFORMATION Service; cron running - 2024.10.03+182129
+INFORMATION Service; cron running - 2024.10.03+182508

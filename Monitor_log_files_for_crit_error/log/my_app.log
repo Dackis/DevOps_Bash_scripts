@@ -1,0 +1,8 @@
+1 Fatal not reachable
+2 Critical error not connected
+3 Warning device wil reboot
+4 Error device turned of
+5 no response FATAL 
+6 error not connected CRITICAL
+7 Warning device wil reboot 
+8 device turned of ERROR

@@ -1,0 +1,78 @@
+2024-09-25+110930 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110950.log'.
+2024-09-25+110916 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110950.log'.
+2024-09-25+110938 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110950.log'.
+2024-09-25+110903 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110950.log'.
+2024-09-25+110916 - ./files/log.log backup created ./backup/log_2024-09-25+110916.log
+2024-09-25+110920 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110916.log'.
+2024-09-25+110943 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110916.log'.
+2024-09-25+110956 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110916.log'.
+2024-09-25+110908 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110916.log'.
+2024-09-25+110949 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110916.log'.
+2024-09-25+110901 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110916.log'.
+2024-09-25+110905 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110916.log'.
+2024-09-25+110946 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110916.log'.
+2024-09-25+110925 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110916.log'.
+2024-09-25+110936 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110916.log'.
+2024-09-25+200948 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110916.log'.
+2024-09-25+200911 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110916.log'.
+2024-09-25+200922 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110916.log'.
+2024-09-25+200925 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110916.log'.
+2024-09-25+200929 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110916.log'.
+2024-09-25+200930 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110916.log'.
+2024-09-25+200959 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110916.log'.
+2024-09-25+200947 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+110916.log'.
+2024-09-25+200910 - ./files/log.log backed up to ./backup/log_2024-09-25+200910.log
+2024-09-25+200949 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+200910.log'.
+2024-09-25+200950 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+200910.log'.
+2024-09-25+200901 - ./files/log.log backed up to ./backup/log_2024-09-25+200901.log
+2024-09-25+200905 - ./files/log.log backed up to ./backup/log_2024-09-25+200905.log
+Oldest file in backup folder for log - 2024-09-25+11:41:16.2877850000 ./backup/log_2024-09-25+110916.log, deleting file!!!
+2024-09-25+200917 - ./files/log.log backed up to ./backup/log_2024-09-25+200917.log
+Oldest file in backup folder for log - 2024-09-25+20:24:10.3979436000 ./backup/log_2024-09-25+200910.log, deleting file!!!
+2024-09-25+200924 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+200917.log'.
+log backup count reached 3 Oldest file in backup folder for log - 2024-09-25+20:25:01.7973591000 ./backup/log_2024-09-25+200901.log, deleting file!!!
+2024-09-25+200945 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+200917.log'.
+2024-09-25+200912 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+200917.log'.
+2024-09-25+200920 - ./files/log.log backed up to ./backup/log_2024-09-25+200920.log
+2024-09-25+200933 - ./files/log.log backed up to ./backup/log_2024-09-25+200933.log
+log backup count reached 3 Oldest file in backup folder for log - 2024-09-25+20:25:05.9366402000 ./backup/log_2024-09-25+200905.log, deleting file!!!
+2024-09-25+200957 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+200933.log'.
+log backup count reached 3 Oldest file in backup folder for log - 2024-09-25+20:25:17.9811144000 ./backup/log_2024-09-25+200917.log, deleting file!!!
+2024-09-25+200923 - ./files/log.log backed up to ./backup/log_2024-09-25+200923.log
+2024-09-25+200946 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+200923.log'.
+log backup count reached 3 Oldest file in backup folder for log - 2024-09-25+20:29:20.7415481000 ./backup/log_2024-09-25+200920.log, deleting file!!!
+2024-09-25+200948 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+200923.log'.
+2024-09-25+200953 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+200923.log'.
+2024-09-25+200956 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+200923.log'.
+2024-09-25+200903 - ./files/log.log backed up to ./backup/log_2024-09-25+200903.log
+2024-09-25+200924 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+200903.log'.
+log backup count reached 3 Oldest file in backup folder for log - 2024-09-25+20:29:33.6567557000 ./backup/log_2024-09-25+200933.log, deleting file!!!
+File './files/log.log' differs from its most recent backup './backup/log_2024-09-25+200903.log'.
+2024-09-25+200941 - ./files/log.log backed up to ./backup/log_2024-09-25+200941.log
+File './files/log.log' differs from its most recent backup './backup/log_2024-09-25+200941.log'.
+2024-09-25+200949 - ./files/log.log backed up to ./backup/log_2024-09-25+200949.log
+log backup count reached 3 Oldest file in backup folder for log - 2024-09-25+20:52:23.2775937000 ./backup/log_2024-09-25+200923.log, deleting file!!!
+2024-09-25+200907 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+200949.log'.
+log backup count reached 3 Oldest file in backup folder for log - 2024-09-25+20:53:04.0326129000 ./backup/log_2024-09-25+200903.log, deleting file!!!
+2024-09-25+200926 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+200949.log'.
+File './files/log.log' differs from its most recent backup './backup/log_2024-09-25+200949.log'.
+2024-09-25+200932 - ./files/log.log backed up to ./backup/log_2024-09-25+200932.log
+File './files/log.log' differs from its most recent backup './backup/log_2024-09-25+200932.log'.
+2024-09-25+200940 - ./files/log.log backed up to ./backup/log_2024-09-25+200940.log
+log backup count reached 3 Oldest file in backup folder for log - 2024-09-25+20:53:41.4780579000 ./backup/log_2024-09-25+200941.log, deleting file!!!
+File './files/log.log' differs from its most recent backup './backup/log_2024-09-25+200932.log'.
+2024-09-25+210942 - ./files/log.log backed up to ./backup/log_2024-09-25+210942.log
+log backup count reached 3 Oldest file in backup folder for log - 2024-09-25+20:53:49.1779731000 ./backup/log_2024-09-25+200949.log, deleting file!!!
+2024-09-25+210949 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+210942.log'.
+log backup count reached 3 Oldest file in backup folder for log - 1727286880.8248271000+ ./backup/log_2024-09-25+200940.log, deleting file!!!
+2024-09-25+210909 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+210942.log'.
+2024-09-25+210917 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+210942.log'.
+2024-09-25+210922 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+210942.log'.
+File './files/log.log' differs from its most recent backup './backup/log_2024-09-25+200932.log'.
+2024-09-25+210902 - ./files/log.log backed up to ./backup/log_2024-09-25+210902.log
+File './files/log.log' differs from its most recent backup ''.
+2024-09-25+210920 - ./files/log.log backed up to ./backup/log_2024-09-25+210920.log
+log backup count reached 3 Oldest file in backup folder for log - 1727289289.2852881000 ./backup/log_2024-09-25+200932.log, deleting file!!!
+2024-09-25+210956 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+210920.log'.
+log backup count reached 3 Oldest file in backup folder for log - ./backup/log_2024-09-25+210942.log, deleting file!!!
+2024-09-25+210902 - File './files/log.log' is the same as its most recent backup './backup/log_2024-09-25+210920.log'.

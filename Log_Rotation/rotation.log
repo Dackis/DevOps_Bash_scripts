@@ -1,0 +1,13 @@
+2024-09-27+134820 Archiving ./backup/my_app2024-09-27+134215.log and putting in ./backup
+2024-09-27+134820: backup files are more than 5, deleting ./backup/my_app2024-09-27+134215.log
+2024-09-27 13:56:18 - Rotated log file './log/my_app.log' to './backup/2024-09-27+135618.log'
+2024-09-27 13:56:18 - Successfully compressed './backup/2024-09-27+135618.log' to './backup/2024-09-27+135618.log.tar.gz'
+2024-09-27+135618: backup files are more than 5, deleting ./backup/my_app2024-09-27+134216.log
+2024-09-27 13:57:00 - Rotated log file './log/my_app.log' to './backup/2024-09-27+135700.log'
+2024-09-27 13:57:00 - Successfully compressed './backup/2024-09-27+135700.log' to './backup/2024-09-27+135700.log.tar.gz'
+2024-09-27+135700: backup files are more than 5, deleting ./backup/my_app2024-09-27+134226.log
+2024-09-27 13:57:15 - Rotated log file './log/my_app.log' to './backup/2024-09-27+135715.log'
+2024-09-27 13:57:15 - Successfully compressed './backup/2024-09-27+135715.log' to './backup/2024-09-27+135715.log.tar.gz'
+2024-09-27+135715: backup files are more than 5, deleting ./backup/my_app2024-09-27+135708.log
+2024-09-27 13:59:01 - Log file size is 0, skipping rotation.
+2024-09-27 13:59:05 - Log file size is 0, skipping rotation.

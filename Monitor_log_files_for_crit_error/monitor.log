@@ -1,0 +1,22 @@
+2024-10-01+185605 ALERT: error found in ./monitor.log
+1 Fatal not reachable
+2 Critical error not connected
+4 Error device turned of
+5 no response FATAL 
+6 error not connected CRITICAL
+8 device turned of ERROR
+2024-10-01+185705 ALERT: error found in ./monitor.log
+1 Fatal not reachable
+2 Critical error not connected
+4 Error device turned of
+5 no response FATAL 
+6 error not connected CRITICAL
+8 device turned of ERROR
+2024-10-01+185713 no errors found in ./monitor.log
+2024-10-01+185723 ALERT: error found in ./monitor.log
+1 Fatal not reachable
+2 Critical error not connected
+4 Error device turned of
+5 no response FATAL 
+6 error not connected CRITICAL
+8 device turned of ERROR

@@ -1,0 +1,75 @@
+2024-09-25+110930 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110930.txt'.
+2024-09-25+110916 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110930.txt'.
+2024-09-25+110938 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110930.txt'.
+2024-09-25+110903 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110930.txt'.
+2024-09-25+110916 - ./files/test.txt backup created ./backup/test_2024-09-25+110916.txt
+2024-09-25+110920 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110916.txt'.
+2024-09-25+110943 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110916.txt'.
+2024-09-25+110956 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110916.txt'.
+2024-09-25+110908 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110916.txt'.
+2024-09-25+110949 - ./files/test.txt backed up to ./backup/test_2024-09-25+110949.txt
+2024-09-25+110901 - ./files/test.txt backed up to ./backup/test_2024-09-25+110901.txt
+2024-09-25+110905 - ./files/test.txt backed up to ./backup/test_2024-09-25+110905.txt
+2024-09-25+110946 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+110925 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+110936 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200948 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200911 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200922 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200925 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200929 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200930 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200959 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200947 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200910 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200949 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200950 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200901 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200905 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200917 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200924 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200945 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200912 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200920 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200933 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200957 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200923 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200946 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200948 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200953 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200956 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200903 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200924 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+110905.txt'.
+File './files/test.txt' differs from its most recent backup './backup/test_2024-09-25+110905.txt'.
+2024-09-25+200941 - ./files/test.txt backed up to ./backup/test_2024-09-25+200941.txt
+File './files/test.txt' differs from its most recent backup './backup/test_2024-09-25+200941.txt'.
+2024-09-25+200949 - ./files/test.txt backed up to ./backup/test_2024-09-25+200949.txt
+test backup count reached 3 Oldest file in backup folder for test - 2024-09-25+11:53:01.4732104000 ./backup/test_2024-09-25+110901.txt, deleting file!!!
+2024-09-25+200907 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+200949.txt'.
+test backup count reached 3 Oldest file in backup folder for test - 2024-09-25+11:53:05.4547324000 ./backup/test_2024-09-25+110905.txt, deleting file!!!
+2024-09-25+200926 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+200949.txt'.
+File './files/test.txt' differs from its most recent backup './backup/test_2024-09-25+200949.txt'.
+2024-09-25+200932 - ./files/test.txt backed up to ./backup/test_2024-09-25+200932.txt
+File './files/test.txt' differs from its most recent backup './backup/test_2024-09-25+200932.txt'.
+2024-09-25+200940 - ./files/test.txt backed up to ./backup/test_2024-09-25+200940.txt
+test backup count reached 3 Oldest file in backup folder for test - 2024-09-25+20:53:41.4565170000 ./backup/test_2024-09-25+200941.txt, deleting file!!!
+File './files/test.txt' differs from its most recent backup './backup/test_2024-09-25+200932.txt'.
+2024-09-25+210942 - ./files/test.txt backed up to ./backup/test_2024-09-25+210942.txt
+test backup count reached 3 Oldest file in backup folder for test - 2024-09-25+20:53:49.1428202000 ./backup/test_2024-09-25+200949.txt, deleting file!!!
+2024-09-25+210949 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+210942.txt'.
+test backup count reached 3 Oldest file in backup folder for test - 1727289310.1303220000+ ./backup/test_2024-09-25+200940.txt, deleting file!!!
+2024-09-25+210909 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+210942.txt'.
+File './files/test.txt' differs from its most recent backup './backup/test_2024-09-25+210942.txt'.
+2024-09-25+210917 - ./files/test.txt backed up to ./backup/test_2024-09-25+210917.txt
+File './files/test.txt' differs from its most recent backup './backup/test_2024-09-25+210917.txt'.
+2024-09-25+210922 - ./files/test.txt backed up to ./backup/test_2024-09-25+210922.txt
+test backup count reached 3 Oldest file in backup folder for test - 1727289319.1021726000 ./backup/test_2024-09-25+200932.txt, deleting file!!!
+File './files/test.txt' differs from its most recent backup './backup/test_2024-09-25+210917.txt'.
+2024-09-25+210902 - ./files/test.txt backed up to ./backup/test_2024-09-25+210902.txt
+test backup count reached 3 Oldest file in backup folder for test - 1727289462.2237235000 ./backup/test_2024-09-25+210942.txt, deleting file!!!
+File './files/test.txt' differs from its most recent backup ''.
+2024-09-25+210920 - ./files/test.txt backed up to ./backup/test_2024-09-25+210920.txt
+test backup count reached 3 Oldest file in backup folder for test - 1727289557.2679330000 ./backup/test_2024-09-25+210917.txt, deleting file!!!
+2024-09-25+210956 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+210920.txt'.
+test backup count reached 3 Oldest file in backup folder for test - ./backup/test_2024-09-25+210922.txt, deleting file!!!
+2024-09-25+210902 - File './files/test.txt' is the same as its most recent backup './backup/test_2024-09-25+210920.txt'.

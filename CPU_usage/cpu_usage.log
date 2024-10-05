@@ -1,0 +1,107 @@
+2024-09-29 15:25:02 - ALERT: High CPU usage detected!
+      1       0 /sbin/init                   0.0  0.4
+      7       2 plan9 --control-socket 6 --  0.0  0.0
+    340     316 postgres: 14/main: checkpoi  0.0  0.0
+    341     316 postgres: 14/main: backgrou  0.0  0.0
+    342     316 postgres: 14/main: walwrite  0.0  0.0
+    343     316 postgres: 14/main: autovacu  0.0  0.0
+    344     316 postgres: 14/main: stats co  0.0  0.0
+    345     316 postgres: 14/main: logical   0.0  0.0
+   5495    5494 ps -eo pid,ppid,cmd,%mem,%c  0.0  0.0
+   5496    5494 awk -v threshold=0.3 $5 > t  0.0  0.0
+2024-09-29 15:25:36 - ALERT: High CPU usage detected!
+    340     316 postgres: 14/main: checkpoi  0.0  0.0
+    341     316 postgres: 14/main: backgrou  0.0  0.0
+    342     316 postgres: 14/main: walwrite  0.0  0.0
+    343     316 postgres: 14/main: autovacu  0.0  0.0
+    344     316 postgres: 14/main: stats co  0.0  0.0
+    345     316 postgres: 14/main: logical   0.0  0.0
+   5649    5648 ps -eo pid,ppid,cmd,%mem,%c  0.0  0.0
+   5650    5648 awk -v threshold=70 $5 > th  0.0  0.0
+2024-09-29 15:26:10 - ALERT: High CPU usage detected!
+    340     316 postgres: 14/main: checkpoi  0.0  0.0
+    341     316 postgres: 14/main: backgrou  0.0  0.0
+    342     316 postgres: 14/main: walwrite  0.0  0.0
+    343     316 postgres: 14/main: autovacu  0.0  0.0
+    344     316 postgres: 14/main: stats co  0.0  0.0
+    345     316 postgres: 14/main: logical   0.0  0.0
+   5793    5792 ps -eo pid,ppid,cmd,%mem,%c  0.0  0.0
+   5794    5792 awk -v threshold=70 $5 > th  0.0  0.0
+2024-09-29 15:26:19 - ALERT: High CPU usage detected!
+    340     316 postgres: 14/main: checkpoi  0.0  0.0
+    341     316 postgres: 14/main: backgrou  0.0  0.0
+    342     316 postgres: 14/main: walwrite  0.0  0.0
+    343     316 postgres: 14/main: autovacu  0.0  0.0
+    344     316 postgres: 14/main: stats co  0.0  0.0
+    345     316 postgres: 14/main: logical   0.0  0.0
+   5838    5837 ps -eo pid,ppid,cmd,%mem,%c  0.0  0.0
+   5839    5837 awk -v threshold=70 $5 > th  0.0  0.0
+2024-09-29 15:26:25 - ALERT: High CPU usage detected!
+    340     316 postgres: 14/main: checkpoi  0.0  0.0
+    341     316 postgres: 14/main: backgrou  0.0  0.0
+    342     316 postgres: 14/main: walwrite  0.0  0.0
+    343     316 postgres: 14/main: autovacu  0.0  0.0
+    344     316 postgres: 14/main: stats co  0.0  0.0
+    345     316 postgres: 14/main: logical   0.0  0.0
+   5867    5866 ps -eo pid,ppid,cmd,%mem,%c  0.0  0.0
+   5868    5866 awk -v threshold=70 $5 > th  0.0  0.0
+2024-09-29 15:28:25 - ALERT: High CPU usage detected!
+PID: PID CPU: %CPU CMD: CMD
+PID: 6366 CPU: 1.0 CMD: /lib/systemd/systemd-udevd
+PID: 1 CPU: 0.4 CMD: /sbin/init
+PID: 378 CPU: 0.2 CMD: python3
+PID: 305 CPU: 0.1 CMD: /snap/ubuntu-desktop-instal
+PID: 2 CPU: 0.0 CMD: /init
+PID: 7 CPU: 6 CMD: plan9
+PID: 40 CPU: 0.0 CMD: /lib/systemd/systemd-journa
+PID: 59 CPU: 0.0 CMD: /lib/systemd/systemd-udevd
+PID: 74 CPU: 0.0 CMD: snapfuse
+PID: 78 CPU: 0.0 CMD: snapfuse
+PID: 79 CPU: 0.0 CMD: snapfuse
+PID: 86 CPU: 0.0 CMD: snapfuse
+PID: 90 CPU: 0.0 CMD: snapfuse
+PID: 95 CPU: 0.0 CMD: snapfuse
+PID: 102 CPU: 0.0 CMD: snapfuse
+PID: 106 CPU: 0.0 CMD: snapfuse
+PID: 158 CPU: 0.0 CMD: /lib/systemd/systemd-resolv
+PID: 167 CPU: -P CMD: /usr/sbin/cron
+PID: 170 CPU: --add CMD: @dbus-daemon
+PID: 178 CPU: 0.1 CMD: /usr/bin/python3
+PID: 180 CPU: -iNON CMD: /usr/sbin/rsyslogd
+PID: 188 CPU: 0.0 CMD: /usr/lib/snapd/snapd
+PID: 190 CPU: 0.0 CMD: /lib/systemd/systemd-logind
+PID: 260 CPU: 0.0 CMD: /bin/bash
+PID: 262 CPU: 0.1 CMD: /usr/bin/python3
+PID: 272 CPU: -p CMD: /sbin/agetty
+PID: 277 CPU: -p CMD: /sbin/agetty
+PID: 316 CPU: 0.0 CMD: /usr/lib/postgresql/14/bin/
+PID: 340 CPU: checkpoi CMD: postgres:
+PID: 341 CPU: backgrou CMD: postgres:
+PID: 342 CPU: walwrite CMD: postgres:
+PID: 343 CPU: autovacu CMD: postgres:
+PID: 344 CPU: stats CMD: postgres:
+PID: 345 CPU: logical CMD: postgres:
+PID: 412 CPU: 0.0 CMD: /init
+PID: 413 CPU: 0.0 CMD: /init
+PID: 414 CPU: 0.0 CMD: -bash
+PID: 415 CPU: 0.0 CMD: /bin/login
+PID: 472 CPU: 0.0 CMD: /lib/systemd/systemd
+PID: 474 CPU: 0.0 CMD: (sd-pam)
+PID: 480 CPU: 0.0 CMD: -bash
+PID: 6367 CPU: 0.0 CMD: /lib/systemd/systemd-udevd
+PID: 6368 CPU: 0.0 CMD: /lib/systemd/systemd-udevd
+PID: 6372 CPU: 0.0 CMD: /bin/bash
+PID: 6374 CPU: 0.0 CMD: /bin/bash
+PID: 6375 CPU: pid,ppid,cmd,%mem,%c CMD: ps
+PID: 6376 CPU: threshold= CMD: awk
+2024-09-29 15:28:47 - No high CPU usage detected.
+2024-09-29 15:28:57 - ALERT: High CPU usage detected!
+PID: 1 CPU: 0.4 CMD: /sbin/init
+PID: 7 CPU: 6 CMD: plan9
+2024-09-29 15:29:34 - ALERT: High CPU usage detected!
+PID: 1 CPU: 0.4 CMD: /sbin/init
+PID: 7 CPU: 6 CMD: plan9
+2024-09-29 15:33:14 - ALERT: High CPU usage detected!
+PID: 1 CPU: 0.4 CMD: /sbin/init
+PID: 7 CPU: 6 CMD: plan9
+2024-09-29 15:33:33 - No high CPU usage detected.
