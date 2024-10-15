@@ -3,7 +3,6 @@
 # ps -eo pid,ppid,cmd,%mem,%cpu --sort=-%cpu | grep "nginx: master"
 
 
-service=nginx
 mem_threshold=1
 cpu_threshold=70
 log=monitor.log

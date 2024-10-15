@@ -1,0 +1,40 @@
+DISK USAGE ALERT!!!
+ALERT
+2024-10-05+132701 - Filesystem D:\ disk usage exceed threshold
+Filesystem - D:\ , size - 477G , disk usage (%) : 96 , threshold - 80
+DISK USAGE ALERT!!!
+ALERT
+2024-10-05+132701 - Filesystem snapfuse disk usage exceed threshold
+Filesystem - snapfuse , size - 128K , disk usage (%) : 100 , threshold - 80
+DISK USAGE ALERT!!!
+ALERT
+2024-10-05+132701 - Filesystem snapfuse disk usage exceed threshold
+Filesystem - snapfuse , size - 75M , disk usage (%) : 100 , threshold - 80
+DISK USAGE ALERT!!!
+ALERT
+2024-10-05+132701 - Filesystem snapfuse disk usage exceed threshold
+Filesystem - snapfuse , size - 75M , disk usage (%) : 100 , threshold - 80
+DISK USAGE ALERT!!!
+ALERT
+2024-10-05+132701 - Filesystem snapfuse disk usage exceed threshold
+Filesystem - snapfuse , size - 92M , disk usage (%) : 100 , threshold - 80
+DISK USAGE ALERT!!!
+ALERT
+2024-10-05+132701 - Filesystem snapfuse disk usage exceed threshold
+Filesystem - snapfuse , size - 41M , disk usage (%) : 100 , threshold - 80
+DISK USAGE ALERT!!!
+ALERT
+2024-10-05+132701 - Filesystem snapfuse disk usage exceed threshold
+Filesystem - snapfuse , size - 39M , disk usage (%) : 100 , threshold - 80
+DISK USAGE ALERT!!!
+ALERT
+2024-10-05+132701 - Filesystem snapfuse disk usage exceed threshold
+Filesystem - snapfuse , size - 131M , disk usage (%) : 100 , threshold - 80
+DISK USAGE ALERT!!!
+ALERT
+2024-10-05+132701 - Filesystem snapfuse disk usage exceed threshold
+Filesystem - snapfuse , size - 132M , disk usage (%) : 100 , threshold - 80
+CPU USAGE ALERT!!!
+2024-10-05+132701 CPU reached threshold: 0.1
+MEMORY ALERT!!!
+2024-10-05+132701 memory 3.90  exceeded  threshold 3

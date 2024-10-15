@@ -1,4 +1,0 @@
-Evaldas.f, dogas.testas.testas
-Greitis
-1 2 3.th
-Vonia.fd
