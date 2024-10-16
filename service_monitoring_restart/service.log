@@ -1,0 +1,66 @@
+2024-10-16 15:57:34 Service nginx is active
+2024-10-16 15:57:34 Service ssh is active
+ERROR: Service restarted but still inactive
+2024-10-16 15:57:49 Service nginx is active
+2024-10-16 15:57:49 Service ssh is active
+2024-10-16 15:57:49 Service: mysql is inactive. Restarting...
+ERROR: Service restarted but still inactive
+2024-10-16 15:58:03 Service nginx is active
+2024-10-16 15:58:03 Service ssh is active
+2024-10-16 15:58:03 Service: mysql is inactive. Restarting...
+ERROR: Service restarted but still inactive
+2024-10-16 15:58:27 Service nginx is active
+2024-10-16 15:58:27 Service ssh is active
+2024-10-16 15:58:27 Service: mysql is inactive. Restarting...
+ERROR: Service restarted but still inactive
+2024-10-16 15:58:35 Service nginx is active
+2024-10-16 15:58:35 Service ssh is active
+2024-10-16 15:58:35 Service: mysql is inactive. Restarting...
+ERROR:  mysql Service restarted but still inactive
+2024-10-16 15:59:06 Service nginx is active
+2024-10-16 15:59:06 Service ssh is active
+2024-10-16 15:59:06 ALERT Service: mysql is inactive. Restarting...
+ERROR:  mysql Service restarted but still inactive
+2024-10-16 15:59:25 Service nginx is active
+2024-10-16 15:59:25 Service ssh is active
+ALERT 2024-10-16 15:59:25  Service: mysql is inactive. Restarting...
+ERROR: 2024-10-16 15:59:25 mysql Service restarted but still inactive
+2024-10-16 16:00:59 Service nginx is active
+2024-10-16 16:00:59 Service ssh is active
+ALERT 2024-10-16 16:00:59  Service: mysql is inactive. Restarting...
+ERROR: 2024-10-16 16:00:59 mysql Service restarted but still inactive
+2024-10-16 16:03:13 Service nginx is active
+2024-10-16 16:03:13 Service ssh is active
+ALERT 2024-10-16 16:03:13  Service: mysql is inactive. Restarting...
+ERROR: 2024-10-16 16:03:13 mysql Service restarted but still inactive
+2024-10-16 16:03:13 email failed to send to admin evaldas
+2024-10-16 16:04:14 Service nginx is active
+2024-10-16 16:04:14 Service ssh is active
+ALERT 2024-10-16 16:04:14  Service: mysql is inactive. Restarting...
+ERROR: 2024-10-16 16:04:14 mysql Service restarted but still inactive
+2024-10-16 16:04:14 email failed to send to admin evaldas
+2024-10-16 16:05:07 Service nginx is active
+2024-10-16 16:05:07 Service ssh is active
+ALERT 2024-10-16 16:05:07  Service: mysql is inactive. Restarting...
+ERROR: 2024-10-16 16:05:07 mysql Service restarted but still inactive
+2024-10-16 16:05:07 Email succesfully sent to ADMIN evaldas
+2024-10-16 16:11:57 Service nginx is active
+2024-10-16 16:11:57 Service ssh is active
+ALERT 2024-10-16 16:11:57  Service: mysql is inactive. Restarting...
+ERROR: 2024-10-16 16:11:57 mysql Service restarted but still inactive
+2024-10-16 16:11:57 Email succesfully sent to ADMIN evaldas
+2024-10-16 16:18:55 Service nginx is active
+2024-10-16 16:18:55 Service ssh is active
+ALERT 2024-10-16 16:18:55  Service: mysql is inactive. Restarting...
+ERROR: 2024-10-16 16:18:55 mysql Service restarted but still inactive
+2024-10-16 16:18:55 Email succesfully sent to ADMIN evaldas
+2024-10-16 16:24:28 Service nginx is active
+2024-10-16 16:24:28 Service ssh is active
+ALERT 2024-10-16 16:24:28  Service: mysql is inactive. Restarting...
+ERROR: 2024-10-16 16:24:28 mysql Service restarted but still inactive
+2024-10-16 16:24:28 Email succesfully sent to ADMIN evaldas
+2024-10-16 16:26:56 Service nginx is active
+2024-10-16 16:26:56 Service ssh is active
+ALERT 2024-10-16 16:26:56  Service: mysql is inactive. Restarting...
+ERROR: 2024-10-16 16:26:56 mysql Service restarted but still inactive
+2024-10-16 16:26:56 email failed to send to admin evaldas
