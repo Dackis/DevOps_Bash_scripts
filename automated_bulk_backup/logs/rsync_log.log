@@ -1,0 +1,15 @@
+Severity: INFO: 20241022_221704 - test_20241022_221704.tar.gz created and moved to: ./to_move/
+Severity: INFO: 20241022_222346 - Creating backup from directory list:./test.txt
+Severity: INFO: 20241022_222346 - Creating backup from directory ./evaldas
+Severity: INFO: 20241022_222346 - evaldas_20241022_222346.tar.gz created and moved to: ./to_move/
+Severity: INFO: 20241022_222346 - Creating backup from directory ./archyvas
+Severity: INFO: 20241022_222346 - archyvas_20241022_222346.tar.gz created and moved to: ./to_move/
+Severity: INFO : 20241022_222346 Rsync from ./to_move/ to ./archyvas/ SUCCESFUL
+Severity: INFO: 20241022_222810 - Creating backup from directory list:./test.txt
+Severity: INFO: 20241022_222810 - Creating backup from directory ./evaldas
+Severity: INFO: 20241022_222810 - evaldas_20241022_222810.tar.gz created and moved to: ./to_move/
+Severity: INFO: 20241022_222810 - Creating backup from directory ./archyvas
+Severity: INFO: 20241022_222810 - archyvas_20241022_222810.tar.gz created and moved to: ./to_move/
+Severity: INFO : 20241022_222810 Rsync from ./to_move/ to ./archyvas/ SUCCESFUL
+Severity: INFO: 20241022_222930 - test_20241022_222930.tar.gz created and moved to: ./to_move/
+Severity: INFO : 20241022_222930 Rsync from ./to_move/ to ./archyvas/ SUCCESFUL
