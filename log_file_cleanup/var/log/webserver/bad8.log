@@ -1,3 +1,0 @@
-2024-09-15 16:10:12 sshd[2897]: ERROR: Failed password for invalid user admin from 192.168.1.5 port 22 ssh2
-2024-09-15 17:05:34 : Service 'mysqld' failed to start.
-2024-09-15 18:20:45 [ERROR] /usr/local/bin/myscript.sh: Line 42: Unexpected end of file.
